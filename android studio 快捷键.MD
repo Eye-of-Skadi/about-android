@@ -62,6 +62,8 @@
 
 　　30.Ctrl+Alt+Up /Ctrl+Alt+Down可以快速跳转搜索结果
 
-　　31.Ctrl+Shift+J可以整合两行
+　　31.Ctrl+Shift+J可以将选中的多行整合成一行
 
 　　32.Alt+F8是计算变量值
+    
+    33.Ctrl+Alt+L  格式化代码
